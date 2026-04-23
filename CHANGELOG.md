@@ -6,6 +6,8 @@
 
 ### Features
 
+- [\#172](https://github.com/arkworks-rs/crypto-primitives/pull/172) Implement `Absorb` for `SmallFp<P>`.
+
 ### Improvements
 
 ### Bugfixes
