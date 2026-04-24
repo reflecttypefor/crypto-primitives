@@ -22,6 +22,8 @@ use rayon::prelude::*;
 #[cfg(feature = "constraints")]
 pub mod constraints;
 
+pub mod configs;
+
 #[cfg(test)]
 mod tests;
 

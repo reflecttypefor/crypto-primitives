@@ -6,6 +6,7 @@
 
 ### Features
 
+- [\#171](https://github.com/arkworks-rs/crypto-primitives/pull/XXX) Add boilerplate for BLAKE3 (feature gated) and Poseidon Merkle tree configs.
 - [\#172](https://github.com/arkworks-rs/crypto-primitives/pull/172) Implement `Absorb` for `SmallFp<P>`.
 
 ### Improvements
